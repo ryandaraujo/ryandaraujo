@@ -7,7 +7,7 @@
 
 ## Statistics
 
-![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvdaraujo&count_private=true&show_icons=true&theme=gruvbox)
+![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvdaraujo&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvdaraujo&layout=compact&theme=gruvbox)
 
 ## Some projects
