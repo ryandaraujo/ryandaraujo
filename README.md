@@ -5,22 +5,21 @@
   
 ---
 
-## Estatísticas
+## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonLFaria&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonLFaria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvdaraujo&count_private=true&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvdaraujo&layout=compact&theme=gruvbox)
 
-## Alguns projetos
+## Some projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=DesafioNumerosTelefone&theme=radical)](https://github.com/WellingtonLFaria/DesafioNumerosTelefone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=Jogo&theme=radical)](https://github.com/WellingtonLFaria/Jogo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=Dev_web&theme=gruvbox)](https://github.com/ryanvdaraujo/Dev_web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=jokenpy&theme=gruvbox)](https://github.com/ryanvdaraujo/Jokenpy)
 
 ---
 
-## Contato
+## Contact
 
 <div> 
-  <a href="https://www.instagram.com/wellingtonfarial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wellingtonll.faria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellington-luiz-92007425b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ryan_araujo_04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/#/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
