@@ -1,7 +1,12 @@
 # Hello, i'm Ryan.
 
 - Currently studying Multiplatform Software Development **(DSM)** in Fatec Profº Jessen Vidal SJC - SP - Brazil
-- knowledge in: <img align="center" alt="HTML" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-Python" height="30" width="40" src="icons/mysql-original.svg">
+- knowledge in:
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,python,flask,js,ts,nodejs,react,sequelize,mysql,git,github" />
+  </a>
+</p>
   
 ---
 
@@ -12,8 +17,8 @@
 
 ## Some projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=Dev_web&theme=gruvbox)](https://github.com/ryanvdaraujo/Dev_web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=jokenpy&theme=gruvbox)](https://github.com/ryanvdaraujo/Jokenpy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=Designdigital&theme=gruvbox)](https://github.com/ryanvdaraujo/Designdigital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=Snake-Game&theme=gruvbox)](https://github.com/ryanvdaraujo/Snake-Game)
 
 ---
 
