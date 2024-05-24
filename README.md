@@ -1,10 +1,10 @@
-# Hello, i'm Ryan.
+ # Hello, i'm Ryan.
 
 - Currently studying Multiplatform Software Development **(DSM)** in Fatec Profº Jessen Vidal SJC - SP - Brazil
 - knowledge in:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,python,flask,js,ts,nodejs,express,react,vue,sequelize,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,python,flask,django,js,ts,nodejs,vue,pinia,sequelize,java,spring,mysql,mongodb,redis,git,github" />
   </a>
 </p>
   
@@ -12,8 +12,8 @@
 
 ## Statistics
 
-![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvdaraujo&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvdaraujo&layout=compact&theme=gruvbox)
+![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryandaraujo&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandaraujo&layout=compact&theme=gruvbox)
 
 ## Some projects
 
