@@ -17,7 +17,7 @@
 
 ## Some projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=machine-learning&theme=gruvbox)](https://github.com/ryanvdaraujo/machine-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryandaraujo&repo=machine-learning&theme=gruvbox)](https://github.com/ryandaraujo/machine-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanvdaraujo&repo=Snake-Game&theme=gruvbox)](https://github.com/ryanvdaraujo/Snake-Game)
 
 ---
