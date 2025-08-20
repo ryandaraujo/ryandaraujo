@@ -4,7 +4,7 @@
 - knowledge in:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,vscode,python,flask,django,js,ts,nodejs,vue,pinia,gherkin,postgres,mysql,mongodb,redis,postman,vercel,git,github,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,md,python,flask,django,js,ts,nodejs,vue,pinia,gherkin,docker,postgres,mysql,mongodb,redis,postman,vercel,git,github,linux&perline=11" />
   </a>
 </p>
   
